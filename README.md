@@ -29,5 +29,11 @@
 
 ---
 
+## If you are preparing a test, feel free to ask to me to help online for the test.
+
+https://calendly.com/hackerranktest/60min
+
+---
+
 # Thanks for visiting my Git! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" height="40px">
 <a target="blank" href="https://profile-counter.glitch.me/hackerranktest-solution/count.svg"><p align="center">💖 Visited Counts 💖<br><br> <img src="https://profile-counter.glitch.me/hackerranktest-solution/count.svg" /></a>
