@@ -29,7 +29,7 @@
 
 ---
 
-## If you are preparing a test, feel free to ask to me to help online for the test.
+## If you are preparing a test, feel free to ask to me to help online for your test.
 
 https://calendly.com/hackerranktest/60min
 
