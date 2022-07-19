@@ -29,7 +29,7 @@
 
 ---
 
-## If you are preparing a test, feel free to ask to me to help online for your test. (I will be offline until 07/22/2022, UTC)
+## If you are preparing a test, feel free to ask to me to help online for your test.
 
 https://calendly.com/hackerranktest/60min
 
